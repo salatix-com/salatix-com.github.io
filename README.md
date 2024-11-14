@@ -1,2 +1,2 @@
 # salatix-com.github.io
-salatix-com
+This repository is used for GitHub Pages.
